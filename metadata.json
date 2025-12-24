@@ -1,0 +1,8 @@
+{
+  "name": "Maward - Arab-Compliant HRMS",
+  "description": "A comprehensive SaaS Human Resources Management System designed for the Arab world, featuring multi-country labor law compliance, bilingual support, and AI-driven HR automation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
